@@ -1,0 +1,1 @@
+This repo contains the codes and practice examples from the book **Automate the boring stuff with Python**
